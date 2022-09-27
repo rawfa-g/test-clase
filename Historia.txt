@@ -3,3 +3,6 @@ Esta es una prueba de Git
 Prueba el 13 de setiembre
 
 Hoy hablamos de la vida de Rafa y su obra maestra
+
+Prueba a 27 de setiembre
+Hemos instalado Ubuntu con éxito. El camino ha sido dificil
