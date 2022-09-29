@@ -8,3 +8,5 @@ Prueba a 27 de setiembre
 Hemos instalado Ubuntu con éxito. El camino ha sido dificil
 
 Master 1
+
+Master 2
